@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RoKiPaRk
 - 👀 I’m interested in Python & .NET coding, and have been a Rocket U2 developer/Manager for 25+ years. 
+#U2 #Python #uopy #Unidata #API
 - 
 - My interest lies in helping the U2 community with new tools that I plan on developing and publishing.
 - 🌱 

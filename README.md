@@ -12,7 +12,7 @@ https://github.com/RoKiPaRk/UOFast
 
 - 💞️ I’m looking to collaborate on U2 based python projects primarily.
 - 📫 
-- Please contact me at RoKiPark@hotmail.com  
+- Please contact me at tech@rokipark.ai 
 <!---
 RoKiPaRk/RoKiPaRk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
